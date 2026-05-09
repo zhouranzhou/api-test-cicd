@@ -1,4 +1,4 @@
-name: API测试CI流水线
+name: API测试CI流水线配置
 
 # 触发条件：代码推送或创建Pull Request时自动运行
 on:
